@@ -5,7 +5,7 @@ def who_is_bigger(a, b, c)
     "c" => c,
   }
 
-result =  my_hash.key(my_hash.values.max)
-return 
-
+	result =  my_hash.key(my_hash.values.max)
 end
+
+who_is_bigger(5, 10, 15)
